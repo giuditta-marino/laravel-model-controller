@@ -1,8 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use APP\Http\Controllers\HomeController;
-use APP\Http\Controllers\MovieController;
+// use APP\Http\Controllers\HomeController;
+// use APP\Http\Controllers\MovieController;
 
 /*
 |--------------------------------------------------------------------------
